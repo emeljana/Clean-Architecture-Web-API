@@ -1,0 +1,16 @@
+/Users/emeliehalgh/projects/Clean-Architecture-Web-API/MySolution.Application/bin/Debug/net10.0/MySolution.Application.deps.json
+/Users/emeliehalgh/projects/Clean-Architecture-Web-API/MySolution.Application/bin/Debug/net10.0/MySolution.Application.dll
+/Users/emeliehalgh/projects/Clean-Architecture-Web-API/MySolution.Application/bin/Debug/net10.0/MySolution.Application.pdb
+/Users/emeliehalgh/projects/Clean-Architecture-Web-API/MySolution.Application/bin/Debug/net10.0/MySolution.Domain.dll
+/Users/emeliehalgh/projects/Clean-Architecture-Web-API/MySolution.Application/bin/Debug/net10.0/MySolution.Domain.pdb
+/Users/emeliehalgh/projects/Clean-Architecture-Web-API/MySolution.Application/obj/Debug/net10.0/MySolution.Application.csproj.AssemblyReference.cache
+/Users/emeliehalgh/projects/Clean-Architecture-Web-API/MySolution.Application/obj/Debug/net10.0/MySolution.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emeliehalgh/projects/Clean-Architecture-Web-API/MySolution.Application/obj/Debug/net10.0/MySolution.Application.AssemblyInfoInputs.cache
+/Users/emeliehalgh/projects/Clean-Architecture-Web-API/MySolution.Application/obj/Debug/net10.0/MySolution.Application.AssemblyInfo.cs
+/Users/emeliehalgh/projects/Clean-Architecture-Web-API/MySolution.Application/obj/Debug/net10.0/MySolution.Application.csproj.CoreCompileInputs.cache
+/Users/emeliehalgh/projects/Clean-Architecture-Web-API/MySolution.Application/obj/Debug/net10.0/MySolution.Application.sourcelink.json
+/Users/emeliehalgh/projects/Clean-Architecture-Web-API/MySolution.Application/obj/Debug/net10.0/MySoluti.4F9A524B.Up2Date
+/Users/emeliehalgh/projects/Clean-Architecture-Web-API/MySolution.Application/obj/Debug/net10.0/MySolution.Application.dll
+/Users/emeliehalgh/projects/Clean-Architecture-Web-API/MySolution.Application/obj/Debug/net10.0/refint/MySolution.Application.dll
+/Users/emeliehalgh/projects/Clean-Architecture-Web-API/MySolution.Application/obj/Debug/net10.0/MySolution.Application.pdb
+/Users/emeliehalgh/projects/Clean-Architecture-Web-API/MySolution.Application/obj/Debug/net10.0/ref/MySolution.Application.dll

@@ -1,0 +1,12 @@
+/Users/emeliehalgh/projects/Clean-Architecture-Web-API/MySolution.Domain/bin/Debug/net10.0/MySolution.Domain.deps.json
+/Users/emeliehalgh/projects/Clean-Architecture-Web-API/MySolution.Domain/bin/Debug/net10.0/MySolution.Domain.dll
+/Users/emeliehalgh/projects/Clean-Architecture-Web-API/MySolution.Domain/bin/Debug/net10.0/MySolution.Domain.pdb
+/Users/emeliehalgh/projects/Clean-Architecture-Web-API/MySolution.Domain/obj/Debug/net10.0/MySolution.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emeliehalgh/projects/Clean-Architecture-Web-API/MySolution.Domain/obj/Debug/net10.0/MySolution.Domain.AssemblyInfoInputs.cache
+/Users/emeliehalgh/projects/Clean-Architecture-Web-API/MySolution.Domain/obj/Debug/net10.0/MySolution.Domain.AssemblyInfo.cs
+/Users/emeliehalgh/projects/Clean-Architecture-Web-API/MySolution.Domain/obj/Debug/net10.0/MySolution.Domain.csproj.CoreCompileInputs.cache
+/Users/emeliehalgh/projects/Clean-Architecture-Web-API/MySolution.Domain/obj/Debug/net10.0/MySolution.Domain.sourcelink.json
+/Users/emeliehalgh/projects/Clean-Architecture-Web-API/MySolution.Domain/obj/Debug/net10.0/MySolution.Domain.dll
+/Users/emeliehalgh/projects/Clean-Architecture-Web-API/MySolution.Domain/obj/Debug/net10.0/refint/MySolution.Domain.dll
+/Users/emeliehalgh/projects/Clean-Architecture-Web-API/MySolution.Domain/obj/Debug/net10.0/MySolution.Domain.pdb
+/Users/emeliehalgh/projects/Clean-Architecture-Web-API/MySolution.Domain/obj/Debug/net10.0/ref/MySolution.Domain.dll
